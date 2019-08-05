@@ -1,0 +1,20 @@
+{
+  "name": "demosample",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "alertifyjs": "^1.11.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-native-webview": "^6.6.0",
+    "react-native-webview-android": "^1.1.17",
+    "react-scripts": "0.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
